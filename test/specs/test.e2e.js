@@ -1,6 +1,6 @@
 import { expect, browser, $ } from "@wdio/globals";
 
-describe("ADx Smoke", () => {
+describe("ADx App Smoke", () => {
   it("should login with valid credentials", async () => {
     await browser.url(`http://localhost:48752/`);
 

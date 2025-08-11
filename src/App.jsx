@@ -178,6 +178,14 @@ export default function App() {
                   <span className="text-[#0F3DDE] cursor-pointer">Sign Up</span>
                 </p>
               </div>
+              <div className="text-center mt-[10px]">
+                <p className="text-[10px] font-medium text-black">
+                  This is a sample Text added to show content diff does not
+                  matter, Lorem ipsum dolor sit amet, consectetur adipiscing
+                  elit, sed do eiusmod tempor incididunt ut labore et dolore
+                  magna aliqua.
+                </p>
+              </div>
             </div>
           </div>
           <div className="flex-1 max-lg:hidden">
